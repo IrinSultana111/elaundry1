@@ -1,0 +1,226 @@
+.kire
+{
+margin-top: 35%;
+margin-bottom: 10px;
+width: 40%;
+margin-left: 30%;
+}
+.pass
+{
+margin-left: 30%;
+width: 40%;
+margin-bottom: 10px;
+}
+.login
+{
+margin-left: 30%;
+margin-bottom: 10px;
+width: 40%;
+}
+.box
+{
+  margin-top: 150px;
+  margin-left: 35%;
+  margin-right: 35%;
+  height: 550px;
+
+}
+#div1
+{
+  text-align: right;
+  background-color: white;
+}
+
+.mbutton
+{
+  margin-left: 30%;
+
+  width: 40%;
+}
+.body1
+{
+  background-image: url('background3.jpg');
+   background-size: 100% 100%;
+
+    background-attachment: fixed;
+
+}
+.modaldesign
+{
+  margin-left: 3%;
+width: 180%;
+}
+.select
+{
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-bottom: -10px;
+}
+.collapse1
+{
+height: 70px;
+width: 50%;
+text-align: left;
+font-size: 30px;
+
+margin-left: 10%;
+margin-top: -100px;
+
+
+
+}
+.collapse2
+{
+  height: 70px;
+  width: 50%;
+  text-align: left;
+  font-size: 30px;
+  margin-left: 10%;
+
+
+
+
+}
+.table1
+{
+
+  text-align: left;
+  font-size: 20px;
+
+  margin-left: 10%;
+  width: 50%;
+  margin-bottom: 10px;
+
+
+
+}
+.body2
+{
+  background-image: url('mainback.jpg');
+   background-size: 100% 100%;
+
+    background-attachment: fixed;
+}
+.cartbtn
+{
+  float: right;
+}
+.pricetag
+{
+  float: right;
+  font-size: 15px;
+  margin-top: 15px;
+  color: #b2beb5;
+}
+.nav1
+{
+  height: 100px;
+}
+.navside
+{
+  margin-right:  21%;
+}
+.navlogo
+{
+  margin-left:  9.5%;
+}
+.footersize
+{
+margin-top: 5%;
+}
+.cardaccount3
+{
+
+ margin-left: 75%;
+ position: absolute;
+
+  margin-right: 200px;
+  margin-top:90px;
+
+}
+  
+
+.remove_button
+{
+margin-top: -54px;
+float: right;
+
+font-size: 10px;
+width: 50px;
+  height: 50px;
+  padding: 10px 16px;
+  border-radius: 35px;
+
+  line-height: 1.33;
+
+
+}
+
+#gap
+{
+  margin-bottom: 35px;
+}
+
+.checkout
+{
+
+  width: 340px;
+
+}
+.add
+{ width: 340px;
+  margin-left: 6px;
+  padding-top: 18px;
+  padding-left: 7px;
+  height: 60px;
+
+}
+.tagtk
+{
+  display: inline;
+}
+#total
+{
+  text-align: right;
+  margin-top: -40px;
+  margin-right: 10px;
+}
+.dateandtime
+{
+
+  margin-top: 30px;
+  margin-left: 20%;
+  padding-left: 35px;
+}
+
+.timing
+{
+  margin-top: 10px;
+
+  width: 150px;
+margin-left: 50%;
+ margin-top: -37px;
+
+
+}
+.Additionalcomment
+{
+  margin-top: 30px;
+  margin-left: 20%;
+  padding-left: 35px;
+  padding-right: 35px;
+
+}
+.payment
+{
+  margin-top: 30px;
+ 
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.items
+{
+   
+  padding-left: 35px;
+  padding-right: 35px;
+}
